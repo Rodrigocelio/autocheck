@@ -68,4 +68,3 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
-s
